@@ -1,3 +1,7 @@
 # Ignore the links or backup files
 *.[o]
 *~
+
+# Ignore the python temp directory
+Py2x/.ropeproject/
+Py3x/.ropeproject/
