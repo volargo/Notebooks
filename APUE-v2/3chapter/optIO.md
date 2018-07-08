@@ -1,0 +1,14 @@
+open
+openat
+creat
+close
+lseek
+read
+write
+dup
+dup2
+sync
+fsync
+fdatasync
+fcntl
+ioctl
