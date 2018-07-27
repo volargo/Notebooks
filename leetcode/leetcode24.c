@@ -3,7 +3,7 @@
  *
  *       Filename:  leetcode24.c
  *
- *    Description:
+ *    Description:  https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/
  *
  *        Version:  1.0
  *        Created:  07/27/2018 06:40:05 PM
@@ -15,7 +15,6 @@
  *
  * =====================================================================================
  */
-#include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
@@ -36,20 +35,4 @@ bool containsDuplicate(int* nums, int numsSize)
         } 
     }
     return false;
-}
-
-int main(void)
-{
-    int     testNums[4] = {1, 2, 3, 1};
-    bool    res;
-
-    res = containsDuplicate(testNums, 4);
-
-    if (res == true) {
-        printf("1\n");
-    } else {
-        printf("0\n");
-    }
-
-    return 0;
 }

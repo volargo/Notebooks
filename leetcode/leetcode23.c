@@ -3,7 +3,7 @@
  *
  *       Filename:  leetcode23.c
  *
- *    Description:  
+ *    Description:  https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/23/
  *
  *        Version:  1.0
  *        Created:  07/27/2018 04:39:38 PM
