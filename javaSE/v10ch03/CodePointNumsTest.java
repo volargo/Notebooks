@@ -1,5 +1,5 @@
 /*
- * codePoint
+ * Test codePoint method of  String class.
  */
 public class CodePointNumsTest
 {

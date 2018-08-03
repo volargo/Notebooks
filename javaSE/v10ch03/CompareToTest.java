@@ -1,5 +1,8 @@
 /*
- * compareTo method
+ * Test compareTo method of String class.
+ *
+ * Java核心技术(卷1)-基础知识(第10版) - Page 38
+ *
  */
 public class CompareToTest
 {
