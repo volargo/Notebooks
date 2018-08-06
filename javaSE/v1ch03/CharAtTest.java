@@ -1,5 +1,5 @@
 /*
- * charAt method
+ * charAt method: get code point unit.
  */
 public class CharAtTest
 {

@@ -11,15 +11,15 @@ public class ReadInputTest
 		Scanner input = new Scanner(System.in);
 		
 		// raad line
-		System.out.println("What's your name? ");
+		System.out.print("What's your name? ");
 		String name = input.nextLine();
 
 		// read integer
-		System.out.println("How old are you? ");
+		System.out.print("How old are you? ");
 		int age = input.nextInt();
 
 		// read double
-		System.out.println("What is your height? (eg: 1.78)");
+		System.out.print("What is your height? (eg: 1.78) ");
 		double height = input.nextDouble();
 
 		// print input
