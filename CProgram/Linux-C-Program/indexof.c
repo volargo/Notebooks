@@ -32,7 +32,7 @@ int indexof(char* str, char letter)
 
 int main(void)
 {
-        char*   str = "Hello, World";
+        char   str[] = "Hello, World";
 
         if (indexof(str, 'a') != -1) {
                 printf("found it.\n");
